@@ -21,4 +21,4 @@ More shouldn't be an issue.
 The script measure the formants at the midpoint by default. You can just change that. A few different timepoints are already supplied.
 
 # How to cite:
-Trüdinger, Johanens (2024). Measuring Vowels_Script. https://github.com/JTruedinger.
+Trüdinger, Johannes (2024). Measuring Vowels_Script. https://github.com/JTruedinger.
